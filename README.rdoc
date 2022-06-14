@@ -6,7 +6,7 @@ A Redmine plugin to suppress email notifications:
 
 Especially useful for silent mass-updates when you don't want to spam all the project participants with your minor update.
 
-<em>This is a fork of the 'Redmine Silencer 2' plugin by Tobias Fischer
+This is a fork of the 'Redmine Silencer 2' plugin by Tobias Fischer
 
 == Requirements
 
