@@ -8,9 +8,6 @@ Especially useful for silent mass-updates when you don't want to spam all the pr
 
 <em>This is a fork of the 'Redmine Silencer 2' plugin by Tobias Fischer
 
-<em>This plugin is listed in the {Redmine plugin directory}[http://]</em>
-
-
 == Requirements
 
 Works fine with Redmine 5.0
@@ -21,9 +18,9 @@ Simply clone the git repo under +plugins/+ in your redmine directory and restart
 
 == Configuration
 
-Then go to _Administration_ > _Roles_ _and_ _permissions_ > select a role and enable 
-'Suppress email notifications in issue' - for the role to be able to controll silencing notifications on issue edit level
-'Suppress email notifications globally' - for the role to be able to controll silencing notifications using a global switch
+Go to _Administration_ > _Roles_ _and_ _permissions_ > select a role and enable 
+* 'Suppress email notifications in issue' - for the role to be able to controll silencing notifications on issue edit level
+* 'Suppress email notifications globally' - for the role to be able to controll silencing notifications using a global switch
 
 You can also enable the setting 'Silent mode on issue level enabled by default?' in _Administration_
 > _Plugins_ > _Configure_ for the 'Redmine Silencer 3' plugin.
